@@ -1,0 +1,11 @@
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+  }
+
+#pennyImage{
+  width: 10%;
+  height: 10%;
+}
